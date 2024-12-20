@@ -8,6 +8,8 @@ The inpainting technique is based on the **Asymptotic Discrete Spot Noise (ADSN)
 - Condition the synthesis process to ensure continuity at the edges of masked regions.
 - Achieve visually coherent and statistically consistent results.
 
+This project, supervised by Arthur Leclaire, implements the methodology presented in his [research paper](https://hal.science/hal-01428428/file/gaussian_inpainting.pdf)
+
 ---
 
 ## Methodology

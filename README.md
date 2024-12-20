@@ -88,3 +88,4 @@ Below are examples of the inpainting results on masked images:
 ---
 
 Feel free to explore the code and results for further insights.
+For a deeper understanding of the methodology and results, you can refer to the report.pdf (in French).

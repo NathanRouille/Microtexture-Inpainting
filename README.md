@@ -72,7 +72,7 @@ The following images demonstrate the continuity achieved through Kriging-based c
 - The inpainted images showed smooth transitions with no visible edges at the mask boundaries.
 - The mean squared error (MSE) at the contour was in the order of $10^{-21}$, demonstrating excellent continuity.
 
-#### **Examples of Inpainting**
+### **Examples of Inpainting**
 Below are examples of the inpainting results on masked images:
 
 <div align="center">
